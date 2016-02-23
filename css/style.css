@@ -1,0 +1,40 @@
+/* 
+div {
+outline: 1px solid red;
+
+}
+ */
+ 
+ h4{
+ font-size: 14px;
+ font-style: normal;
+ }
+
+
+.chart {
+  height: 500px;
+  margin-top: 20px;
+}
+
+.bar{
+	height: 30px;
+	background-color: purple; 
+	margin-top: 1px;
+	margin-bottom: 10px;
+}
+
+.val {
+	background-color: white;
+	padding: 1px;
+	display: inline;
+	float: left;
+	margin-top: 7px;
+	margin-left: 4px;
+	font-weight: bold;
+	font-size: 11px;
+	color: black;
+}
+
+.name{
+	font-weight: bold;
+	}
